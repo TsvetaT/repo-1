@@ -1,3 +1,0 @@
-Random text in file-1
-	+ some more content
-		+ some more
